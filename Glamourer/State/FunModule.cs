@@ -396,7 +396,7 @@ public unsafe class FunModule : IDisposable
         armor = slot switch
         {
             EquipSlot.Body => new CharacterArmor(6133, 1, stainId),
-            EquipSlot.Head => new CharacterArmor(6133, 1, stainId),
+            EquipSlot.Head => new CharacterArmor(5040, 1, stainId),
             _              => armor,
         };
     }

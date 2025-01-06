@@ -27,9 +27,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608322,
-    "DownloadLinkInstall": "https://github.com/MrCarangar/Glam/archive/refs/tags/test.zip",
-    "DownloadLinkUpdate": "https://github.com/MrCarangar/Glam/archive/refs/tags/test.zip",
-    "DownloadLinkTesting": "https://github.com/MrCarangar/Glam/archive/refs/tags/test.zip",
+    "DownloadLinkInstall": "https://github.com/MrCarangar/Glam/releases/download/test2/Glamourer.zip",
+    "DownloadLinkUpdate": "https://github.com/MrCarangar/Glam/releases/download/test2/Glamourer.zip",
+    "DownloadLinkTesting": "https://github.com/MrCarangar/Glam/releases/download/test2/Glamourer.zip",
     "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png"
   }
 ]
